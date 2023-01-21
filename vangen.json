@@ -1,0 +1,12 @@
+{
+  "domain": "go.vardan.dev",
+  "repositories": [
+    {
+      "prefix": "highload-architect/social-net-01",
+      "subs": [
+        "cmd/server"
+      ],
+      "url": "https://github.com/varp/highload-architect"
+    }
+  ]
+}
